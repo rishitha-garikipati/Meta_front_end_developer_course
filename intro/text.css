@@ -1,0 +1,9 @@
+p {
+    text-transform: uppercase;
+    font-family: "Courier New", monospace;
+    font-size: 12px;
+    text-decoration-line: underline;
+    text-decoration-color: hsl(0, 100%, 50%);
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+  }
